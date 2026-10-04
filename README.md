@@ -1,3 +1,6 @@
+
+https://github.com/user-attachments/assets/1bf876ec-0ed0-42ed-8f66-fbe2d32c5a03
+
 # ☢️ Silicon Maze — The Last Portfolio
 
 > **A digital survival archive from the final days of the network.**
